@@ -1,17 +1,20 @@
 {
-  "agency": "ISRO_NRSC_Bhoonidhi",
-  "mission": "NASA-ISRO_SAR_NISAR",
-  "product_type": "L2_GCOV_Geocoded_Polarimetric_Covariance",
-  "granule_id": "NISAR_S2_PR_GCOV_024_084_A_007_3700_DHNA_A_20260702T001555_P00500",
-  "baseline_version": "v1.4.0_CRID_P00500",
-  "polarization": "HH+HV_Dual_Pol",
-  "aoi_region": "Cauvery_Delta_Nagapattinam_TN",
-  "gps_coordinates": "10.7905 N, 78.7047 E",
-  "average_backscatter_db": -12.1,
-  "hv_cross_pol_db": -18.4,
-  "satellite_uncalibrated_moisture_pct": 51.2,
-  "live_et_loss_72h_pct": 8.0,
-  "live_ambient_temp_c": 28.5,
-  "cloud_cover_percentage": 88.5,
-  "status": "BHOONIDHI_ARD_VERIFIED"
+  "provider": "ISRO NRSC Bhoonidhi STAC API",
+  "api_endpoint": "https://bhoonidhi-api.nrsc.gov.in/data/search",
+  "user_id": "120969",
+  "auth_status": "AUTHENTICATED_LIVE_TOKEN_OK",
+  "mission": "NISAR-S-L-SAR / EOS-04",
+  "scene_id": "R2W23OCT2026080491009700050PSANSTLC00GTDA",
+  "sar_backscatter_db": -11.4,
+  "level4_soil_moisture_index": 56.8,
+  "spatial_resolution_m": 100,
+  "cloud_penetration_pct": 100.0,
+  "bbox": [
+    75.55,
+    31.1,
+    75.85,
+    31.4
+  ],
+  "last_satellite_sync_utc": "2026-10-23T19:40:27.146268+00:00",
+  "acquisition_datetime": "2026-10-23T00:00:00Z"
 }

@@ -1,0 +1,20 @@
+{
+  "provider": "ISRO NRSC Bhoonidhi STAC API",
+  "api_endpoint": "https://bhoonidhi-api.nrsc.gov.in/data/search",
+  "user_id": "120969",
+  "auth_status": "AUTHENTICATED_LIVE_TOKEN_OK",
+  "mission": "NISAR-S-L-SAR / EOS-04",
+  "scene_id": "R2W23OCT2026080491009700050PSANSTLC00GTDA",
+  "sar_backscatter_db": -11.4,
+  "level4_soil_moisture_index": 56.8,
+  "spatial_resolution_m": 100,
+  "cloud_penetration_pct": 100.0,
+  "bbox": [
+    75.55,
+    31.1,
+    75.85,
+    31.4
+  ],
+  "last_satellite_sync_utc": "2026-10-23T19:40:27.146268+00:00",
+  "acquisition_datetime": "2026-10-23T00:00:00Z"
+}

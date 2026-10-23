@@ -14,12 +14,12 @@ AgriMesh is an enterprise-grade geospatial analytics and automated decision-supp
 
 ---
 
-## 🚀 Multi-Sector Modules
+## 🚀 Multi-Sector Modules & Geospatial Targets
 
-1. **Agriculture & Sowing Intelligence**: Fuses SAR ground backscatter with 72-hour Penman-Monteith Evapotranspiration (ET) and Vapor Pressure Deficit (VPD) to generate safe sowing windows and B2B seed supply surges.
-2. **NHAI Landslide & Slope Stability**: Calculates volumetric water content, sub-surface pore water pressure (kPa), and geotechnical Factors of Safety (FoS) along the NH-44 highway embankments.
-3. **Parametric Crop Insurance & Banking**: Executes automated micro-insurance smart contract liquidity payouts and KCC credit loan restructuring when severe drought or saturation thresholds are breached.
-4. **Public Health Vector Control**: Evaluates topographic depression sinks and ambient temperatures to map 14-day malaria/dengue mosquito breeding risk matrices.
+1. **Agriculture & Sowing Intelligence [1.3.2]**: Fuses SAR ground backscatter with 72-hour Penman-Monteith Evapotranspiration (ET) and Vapor Pressure Deficit (VPD) to generate safe sowing windows and B2B seed supply surges at **31.2559° N, 75.7037° E [1.3.2]**.
+2. **NHAI Landslide & Slope Stability [2.1.2]**: Calculates volumetric water content, sub-surface pore water pressure (kPa), and geotechnical Factors of Safety (FoS) along highway embankments and cut-slopes at **20.16° N, 84.41° E [2.1.2]**.
+3. **Parametric Crop Insurance & Banking [1.3.2]**: Executes automated micro-insurance smart contract liquidity payouts and KCC credit loan restructuring when severe drought or saturation thresholds are breached at **31.2559° N, 75.7037° E [1.3.2]**.
+4. **Public Health Vector Control [2.1.1]**: Evaluates topographic depression sinks and ambient temperatures to map 14-day malaria/dengue mosquito breeding risk matrices at **12.1664° N, 78.5441° E [2.1.1]**.
 
 
 
