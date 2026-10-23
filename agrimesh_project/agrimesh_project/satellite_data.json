@@ -1,0 +1,17 @@
+{
+  "agency": "ISRO_NRSC_Bhoonidhi",
+  "mission": "NASA-ISRO_SAR_NISAR",
+  "product_type": "L2_GCOV_Geocoded_Polarimetric_Covariance",
+  "granule_id": "NISAR_S2_PR_GCOV_024_084_A_007_3700_DHNA_A_20260702T001555_P00500",
+  "baseline_version": "v1.4.0_CRID_P00500",
+  "polarization": "HH+HV_Dual_Pol",
+  "aoi_region": "Cauvery_Delta_Nagapattinam_TN",
+  "gps_coordinates": "10.7905 N, 78.7047 E",
+  "average_backscatter_db": -12.1,
+  "hv_cross_pol_db": -18.4,
+  "satellite_uncalibrated_moisture_pct": 51.2,
+  "live_et_loss_72h_pct": 8.0,
+  "live_ambient_temp_c": 28.5,
+  "cloud_cover_percentage": 88.5,
+  "status": "BHOONIDHI_ARD_VERIFIED"
+}
